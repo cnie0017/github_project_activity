@@ -1,2 +1,2 @@
 # github_project_activity
-for cis557
+changing the readme for pull request for cis557
